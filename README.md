@@ -7,6 +7,6 @@
 
 
 ### Skills:
-Webscraping
-Machine learning
-Data Analysis
+- Webscraping
+- Machine learning
+- Data Analysis
